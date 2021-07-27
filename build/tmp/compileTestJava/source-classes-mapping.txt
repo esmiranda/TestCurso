@@ -1,0 +1,4 @@
+pa/certificacion/proyectobase/runners/RunnerTranslator.java
+ pa.certificacion.proyectobase.runners.RunnerTranslator
+pa/certificacion/proyectobase/stepdefinitions/GoogleTraductorStepDefinitions.java
+ pa.certificacion.proyectobase.stepdefinitions.GoogleTraductorStepDefinitions

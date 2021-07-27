@@ -1,0 +1,12 @@
+pa/certificacion/proyectobase/model/DatosGoogleTraductor.java
+ pa.certificacion.proyectobase.model.DatosGoogleTraductor
+pa/certificacion/proyectobase/userinterface/GoogleTraductor.java
+ pa.certificacion.proyectobase.userinterface.GoogleTraductor
+pa/certificacion/proyectobase/tasks/AbrirEl.java
+ pa.certificacion.proyectobase.tasks.AbrirEl
+pa/certificacion/proyectobase/userinterface/TraductorPage.java
+ pa.certificacion.proyectobase.userinterface.TraductorPage
+pa/certificacion/proyectobase/tasks/Traducir.java
+ pa.certificacion.proyectobase.tasks.Traducir
+pa/certificacion/proyectobase/questions/Palabra.java
+ pa.certificacion.proyectobase.questions.Palabra
